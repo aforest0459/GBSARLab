@@ -1,5 +1,3 @@
-[@toc]
-
 # GBSARLab
 GB-InSAR 2D/3D Geocoding, Visualization and Feature Extraction
 # GBSARGeocoding
